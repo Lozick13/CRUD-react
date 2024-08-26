@@ -1,0 +1,11 @@
+.action-button {
+	transition: 0.5s;
+	border: none;
+	border-radius: 5px;
+	padding: 7px 15px;
+	color: #fff;
+}
+.action-button:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}

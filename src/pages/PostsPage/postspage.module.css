@@ -1,0 +1,14 @@
+.posts-page {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	width: 70vw;
+}
+.posts-page__header {
+	margin: 0 0 0 15px;
+}
+.posts__container {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}

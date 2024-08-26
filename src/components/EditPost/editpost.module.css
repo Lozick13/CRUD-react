@@ -1,0 +1,28 @@
+.edit-post {
+	border-radius: 5px;
+	background: #fff;
+
+	width: 100%;
+}
+.edit-post__header {
+	background: #f3f3f3;
+	position: relative;
+	border-radius: 5px 5px 0 0;
+	padding: 10px 15px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.edit-post__content {
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+	padding: 10px 15px;
+}
+.edit-post__actions {
+	display: flex;
+	justify-content: flex-end;
+	gap: 10px;
+	border-top: solid 1px #acacac;
+	padding: 15px 0 0 0;
+}

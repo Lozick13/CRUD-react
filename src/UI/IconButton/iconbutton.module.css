@@ -1,0 +1,10 @@
+.icon-button {
+	transition: 0.5s;
+	border: none;
+	background: none;
+	color: #acacac;
+}
+.icon-button:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
